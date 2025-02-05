@@ -1,7 +1,6 @@
 🖼️ CGGNet on CIFAR-10 🖥️
 Overview 🌟
 This project uses CGGNet, a deep learning model, to classify images from the CIFAR-10 dataset. The dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. We use a convolutional neural network (CNN) to build a model that can predict the class of each image in the dataset.
-
 The model is built upon the popular VGG16 architecture, which is pre-trained on the ImageNet dataset, and fine-tuned to classify the CIFAR-10 dataset. This project demonstrates the power of transfer learning, where the model is first trained on a large, diverse dataset and later adapted to a smaller dataset.
 -----------------------------
 Dataset 📊
